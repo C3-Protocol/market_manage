@@ -1,0 +1,32 @@
+[
+    {
+      "key": "zombie",
+      "price": 0,
+      "supplyCount": 1000,
+      "endMint": true
+    },
+    {
+      "key": "gang",
+      "price": 0,
+      "supplyCount": 5000,
+      "endMint": true
+    },
+    {
+      "key": "avocado",
+      "price": 3,
+      "supplyCount": 10000,
+      "endMint": true
+    },
+    {
+      "key": "shoe",
+      "price": 8,
+      "supplyCount": 266,
+      "endMint": true
+    },
+    {
+      "key": "car",
+      "price": 2.5,
+      "supplyCount": 8000,
+      "endMint": false
+    }
+  ]
