@@ -1,3 +1,3 @@
 #! /bin/bash
 git pull
-nginx -s reload
+sudo ginx -s reload
