@@ -2,6 +2,6 @@
   {
     "id": "deploy",
     "execute-command": "./deploy.sh",
-    "command-working-directory": "/root/test/"
+    "command-working-directory": "/home/feilian/tmp/market_hooks_service/"
   }
 ]
