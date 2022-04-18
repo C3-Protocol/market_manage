@@ -27,6 +27,6 @@
       "key": "car",
       "price": 2.5,
       "supplyCount": 8000,
-      "endMint": false
+      "endMint": true
     }
   ]
