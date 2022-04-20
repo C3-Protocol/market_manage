@@ -1,1 +1,55 @@
-[{"key":"zombie","title":"Crazy Zombie","subTitle":"test_CCC’s Crazy Zombie is the only collection of zombies on the IC network.","airdropStart":false,"airdropIndex":1},{"key":"turtles","title":"ICTurtles","subTitle":"10,000 customizable Turtles built on P2E.","airdropStart":false,"airdropIndex":2},{"key":"gang","title":"DfinityGangs","subTitle":"DfinityGangs has been airdropped by the Dfinity Community Vietnam, as a certificate of holders engagement in the Dfinity ecosystem.","airdropStart":false,"airdropIndex":3},{"key":"avocado","title":"Avocado Research","subTitle":"The collection was released by Avocado Research","airdropStart":false,"airdropIndex":4},{"key":"icity","title":"ICity","subTitle":"Claim your ICmoe NFT and Enter the \"ICity Metaverse\"","airdropStart":true,"airdropIndex":5},{"key":"lion","title":"ICPark","subTitle":"\"Ever dreamed about a Zoo in the Metaverse?\" Now is the time!","airdropStart":true,"airdropIndex":6},{"key":"shoe","title":"IC Shoes","subTitle":"VRSTL NFTs  provide a high quality, metaverse-ready wearables","airdropStart":true,"airdropIndex":7},{"key":"car","title":"IC Cars","subTitle":"Wen Lambo, grab a ride, the the race in the metaverse has just begun","airdropStart":true,"airdropIndex":8}]
+[{
+	"key": "zombie",
+	"title": "Crazy Zombie",
+	"subTitle": "test_CCC’s Crazy Zombie is the only collection of zombies on the IC network.",
+	"airdropStart": false,
+	"airdropIndex": 1
+}, {
+	"key": "turtles",
+	"title": "ICTurtles",
+	"subTitle": "10,000 customizable Turtles built on P2E.",
+	"airdropStart": false,
+	"airdropIndex": 2
+}, {
+	"key": "gang",
+	"title": "DfinityGangs",
+	"subTitle": "DfinityGangs has been airdropped by the Dfinity Community Vietnam, as a certificate of holders engagement in the Dfinity ecosystem.",
+	"airdropStart": false,
+	"airdropIndex": 3
+}, {
+	"key": "avocado",
+	"title": "Avocado Research",
+	"subTitle": "The collection was released by Avocado Research",
+	"airdropStart": false,
+	"airdropIndex": 4
+}, {
+	"key": "icity",
+	"title": "ICity",
+	"subTitle": "Claim your ICmoe NFT and Enter the \"ICity Metaverse\"",
+	"airdropStart": true,
+	"airdropIndex": 5
+}, {
+	"key": "lion",
+	"title": "ICPark",
+	"subTitle": "\"Ever dreamed about a Zoo in the Metaverse?\" Now is the time!",
+	"airdropStart": true,
+	"airdropIndex": 6
+}, {
+	"key": "shoe",
+	"title": "IC Shoes",
+	"subTitle": "VRSTL NFTs  provide a high quality, metaverse-ready wearables",
+	"airdropStart": true,
+	"airdropIndex": 7
+}, {
+	"key": "car",
+	"title": "IC Cars",
+	"subTitle": "Wen Lambo, grab a ride, the the race in the metaverse has just begun",
+	"airdropStart": true,
+	"airdropIndex": 8
+}, {
+	"key": "kverso",
+	"title": "ICKverso",
+	"subTitle": "ICKverso",
+	"airdropStart": true,
+	"airdropIndex": 9
+}]
