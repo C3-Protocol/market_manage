@@ -1,18 +1,26 @@
 [
 	{
-		"index": "M1",
-		"name":  "ICP CANVAS"
+		"cid":"ish2mf-kqaaa-aaaah-qcy3q-cai",
+        "type":"m1155",
+		"index": 5,
+		"name": "Bull Run VS Bear Market"
 	},
 	{
-		"index": "M2",
+		"cid":"yogok-taaaa-aaaah-qcnvq-cai",
+        "type":"m1155",
+		"index": 2,
 		"name": "First New Year on IC"
 	},
 	{
-		"index": "T0",
+		"cid":"xft5j-ziaaa-aaaah-qclpq-cai",
+        "type":"theme",
+		"index": 0,
 		"name": "ICPuppies Winter Canvas"
 	},
 	{
-		"index": "T3",
+		"cid":"ofwh6-waaaa-aaaah-qcrka-cai",
+        "type":"theme1155",
+		"index": 3,
 		"name": "ICAliens Public Canvas"
 	}
 ]
