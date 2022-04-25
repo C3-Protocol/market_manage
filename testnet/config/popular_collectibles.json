@@ -1,31 +1,9 @@
 [
 	 {
-        "cid":"ish2mf-kqaaa-aaaah-qcy3q-cai",
-        "type":"m1155",
-        "index": 5,
-        "name": "Bull Run VS Bear Market",
-        "image_url": "https://testnet.c3-protocol.art/resource/popular_collectibles/m1155/5.jpeg"
-    },
-    {
-        "cid":"yogok-taaaa-aaaah-qcnvq-cai",
-        "type":"m1155",
-        "index": 2,
-        "name": "First New Year on IC",
-        "image_url": "https://testnet.c3-protocol.art/resource/popular_collectibles/m1155/2.jpeg"
-    },
-    {
-        "cid":"xft5j-ziaaa-aaaah-qclpq-cai",
-        "type":"theme",
-        "index": 0,
-        "name": "ICPuppies Winter Canvas",
-        "image_url": "https://testnet.c3-protocol.art/resource/popular_collectibles/theme/0.jpeg"
-
-    },
-    {
-        "cid":"ofwh6-waaaa-aaaah-qcrka-cai",
+        "cid":"grieg-dqaaa-aaaai-qfkta-cai",
         "type":"theme1155",
-        "index": 3,
-        "name": "ICAliens Public Canvas",
-        "image_url": "https://testnet.c3-protocol.art/resource/popular_collectibles/theme1155/3.jpeg"
+        "index": 2,
+        "name": "1155Theme-test1",
+        "image_url": "https://testnet.c3-protocol.art/resource/popular_collectibles/theme1155/2.jpeg"
     }
 ]
