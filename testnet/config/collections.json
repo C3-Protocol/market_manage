@@ -228,34 +228,30 @@
 	"feePrinId": "rmio5-7zn27-y5jw5-57mhs-tlvj5-qeia7-bq3fr-yfubz-qsven-yznzz-bae",
 	"totalSupply": 8000
 }, {
-	"key": "kverso",
-    "nftType": "blindbox",
+	"key": "cat",
 	"nftId": {
-		"test": "56a4l-oqaaa-aaaai-qjitq-cai",
+		"test": "jzn57-dqaaa-aaaai-qkdxa-cai",
 		"line": ""
 	},
 	"storageId": {
-		"test": "4up6r-maaaa-aaaai-qjiuq-cai",
+		"test": "nqkgt-fqaaa-aaaai-qkeqq-cai",
 		"line": ""
 	},
 	"pricinpalId": "",
-	"title": "ICKverso",
-	"brief": "ICKverso",
+	"title": "Metacats (by ICWhiskers)",
+	"brief": "Metacats is a collection of 10,050 randomly generated NFTs that were hand-drawn by Izzy, the founder and the lead artist of ICWhiskers.",
 	"description": "",
-	"blurb": "<p>ICKverso</p>",
+	"blurb": "<p>Metacats is a collection of 10,050 randomly generated NFTs that were hand-drawn by Izzy, the founder and the lead artist of ICWhiskers. These Cattos will be airdropped to the community in order to give our supporters a small token of our gratitude as we continue ICWhiskers’ journey into the open digital realms on Internet Computer Protocol. There are three versions of the Metacats: Starstruck, Skull Face, and Classic, which come in a variety of colors, personalities, and accessories. These collectibles act as an access key to the exclusive holder-only DSCVR portal after the launch.</p>",
 	"links": [{
-		"link": "",
-		"name": "Website"
-	}, {
-		"link": "",
+		"link": "https://discord.gg/xKpycnJ2Ar",
 		"name": "Discord"
 	}, {
-		"link": "",
+		"link": "https://twitter.com/ICWhiskers",
 		"name": "Twitter"
 	}],
 	"commission": 1,
 	"royalty": 3,
 	"feePrinId": "",
-	"totalSupply": 5000
+	"totalSupply": 10000
 }
 ]

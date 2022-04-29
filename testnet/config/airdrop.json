@@ -47,9 +47,15 @@
 	"airdropStart": true,
 	"airdropIndex": 8
 }, {
+	"key": "cat",
+	"title": "Metacats (by ICWhiskers)",
+	"subTitle": "Metacats (by ICWhiskers)",
+	"airdropStart": true,
+	"airdropIndex": 9
+},{
 	"key": "kverso",
 	"title": "ICKverso",
 	"subTitle": "ICKverso",
-	"airdropStart": true,
-	"airdropIndex": 9
+	"airdropStart": false,
+	"airdropIndex": 10
 }]
