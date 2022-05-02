@@ -231,18 +231,18 @@
 	"key": "cat",
 	"nftId": {
 		"test": "jzn57-dqaaa-aaaai-qkdxa-cai",
-		"line": ""
+		"line": "k3wif-yyaaa-aaaah-qc2ca-cai"
 	},
 	"storageId": {
 		"test": "nqkgt-fqaaa-aaaai-qkeqq-cai",
-		"line": ""
+		"line": "k4xor-vaaaa-aaaah-qc2cq-cai"
 	},
-	"pricinpalId": "",
+	"pricinpalId": "k3wif-yyaaa-aaaah-qc2ca-cai",
 	"nftType": "ipfs",
 	"title": "Metacats",
-	"brief": "Metacats is a collection of 10,050 randomly generated NFTs that were hand-drawn by Izzy, the founder and the lead artist of ICWhiskers.",
+	"brief": "Metacats is a collection of 10,000 randomly generated NFTs that were hand-drawn by Izzy, the founder and the lead artist of ICWhiskers.",
 	"description": "",
-	"blurb": "<p>Metacats is a collection of 10,050 randomly generated NFTs that were hand-drawn by Izzy, the founder and the lead artist of ICWhiskers. These Cattos will be airdropped to the community in order to give our supporters a small token of our gratitude as we continue ICWhiskers’ journey into the open digital realms on Internet Computer Protocol. There are three versions of the Metacats: Starstruck, Skull Face, and Classic, which come in a variety of colors, personalities, and accessories. These collectibles act as an access key to the exclusive holder-only DSCVR portal after the launch.</p>",
+	"blurb": "<p>Metacats is a collection of 10,000 randomly generated NFTs that were hand-drawn by Izzy, the founder and the lead artist of ICWhiskers. These Cattos will be airdropped to the community in order to give our supporters a small token of our gratitude as we continue ICWhiskers’ journey into the open digital realms on Internet Computer Protocol. There are three versions of the Metacats: Starstruck, Skull Face, and Classic, which come in a variety of colors, personalities, and accessories. These collectibles act as an access key to the exclusive holder-only DSCVR portal after the launch.</p>",
 	"links": [{
 		"link": "https://discord.gg/xKpycnJ2Ar",
 		"name": "Discord"
@@ -252,7 +252,7 @@
 	}],
 	"commission": 1,
 	"royalty": 3,
-	"feePrinId": "",
+	"feePrinId": "jvlmo-ev6uy-76llh-4vzjp-gplev-5wlhr-57wg4-upogo-ejw2b-rqoko-cae",
 	"totalSupply": 10000
 }
 ]
