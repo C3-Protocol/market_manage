@@ -8,13 +8,13 @@
   {
     "key": "gang",
     "price": 0,
-    "supplyCount": 5000,
+    "supplyCount": 1000,
     "endMint": true
   },
   {
     "key": "avocado",
     "price": 2,
-    "supplyCount": 10000,
+    "supplyCount": 5588,
     "endMint": true
   },
   {
@@ -26,7 +26,7 @@
   {
     "key": "car",
     "price": 2,
-    "supplyCount": 8000,
+    "supplyCount": 4000,
     "endMint": true
   }
 ]
