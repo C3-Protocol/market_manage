@@ -3,19 +3,19 @@
     "key": "zombie",
     "price": 0.8,
     "supplyCount": 1000,
-    "endMint": false
+    "endMint": true
   },
   {
     "key": "gang",
     "price": 0,
     "supplyCount": 10000,
-    "endMint": false
+    "endMint": true
   },
   {
     "key": "avocado",
     "price": 2,
     "supplyCount": 5588,
-    "endMint": false
+    "endMint": true
   },
   {
     "key": "shoe",
