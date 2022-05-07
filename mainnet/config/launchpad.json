@@ -9,13 +9,13 @@
     "key": "gang",
     "price": 0,
     "supplyCount": 10000,
-    "endMint": true
+    "endMint": false
   },
   {
     "key": "avocado",
     "price": 2,
     "supplyCount": 5588,
-    "endMint": true
+    "endMint": false
   },
   {
     "key": "shoe",
