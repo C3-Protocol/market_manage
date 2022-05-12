@@ -26,11 +26,7 @@
   {
     "key": "car",
     "price": 2,
-<<<<<<< HEAD
-    "supplyCount": 8000,
-=======
     "supplyCount": 4000,
->>>>>>> c4eb0411ec938d07f40f3d96b8d961a03e666eb7
     "endMint": true
   }
 ]
