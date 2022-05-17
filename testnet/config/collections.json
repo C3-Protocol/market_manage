@@ -272,5 +272,25 @@
     "royalty": 8,
     "feePrinId": "pvmz3-hz4vs-qemfk-krdkr-z7kq2-zegxm-k36g4-dwmab-5rq5x-vta34-5qe",
     "totalSupply": 266
+  },
+  {
+    "key": "kverso",
+    "nftType": "blindbox",
+    "nftId": "56a4l-oqaaa-aaaai-qjitq-cai",
+    "storageId":  "4up6r-maaaa-aaaai-qjiuq-cai",
+    "pricinpalId": "",
+    "title": "ICKverso",
+    "brief": "ICKverso",
+    "description": "",
+    "blurb": "<p>ICKverso</p>",
+    "links": [{
+      "link": "https://mobile.twitter.com/kverso_crypto",
+      "name": "Twitter"
+    }],
+    "commission": 1,
+    "royalty": 3,
+    "feePrinId": "",
+    "totalSupply": 5000
   }
+
 ]

@@ -28,5 +28,11 @@
     "price": 2,
     "supplyCount": 4000,
     "endMint": true
+  },
+  {
+    "key": "kverso",
+    "price": 5,
+    "supplyCount": 5000,
+    "endMint": false
   }
 ]
