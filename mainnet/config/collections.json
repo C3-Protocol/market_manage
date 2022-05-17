@@ -232,44 +232,5 @@
     "royalty": 3,
     "feePrinId": "jvlmo-ev6uy-76llh-4vzjp-gplev-5wlhr-57wg4-upogo-ejw2b-rqoko-cae",
     "totalSupply": 10000
-  },
-  {
-    "key": "ICDmail",
-    "nftType": "video",
-    "nftId": {
-      "test": "hleti-rqaaa-aaaai-qll5a-cai",
-      "line": "hleti-rqaaa-aaaai-qll5a-cai"
-    },
-    "storageId": {
-      "test": "hmfv4-4iaaa-aaaai-qll5q-cai",
-      "line": "hmfv4-4iaaa-aaaai-qll5q-cai"
-    },
-    "pricinpalId": "hleti-rqaaa-aaaai-qll5a-cai",
-    "title": "3D Crystals",
-    "brief": "3D Crystals is a limited collection of 2,626 digital collectibles that live on the Dfinity blockchain.",
-    "description": "",
-    "blurb": "<p>3D Crystals is a limited collection of 2,626 digital collectibles that live on the Dfinity blockchain. It was created by decentralized mailbox DApp“Dmail Network” to incentivize early supporters, domain account holders, and community active users. Every NFT is unique and randomly generated. The holders can access to private club, experience products and more. We rise together. We build together. We grow together. Learn more about Dmail, https://linktr.ee/dmail</p>",
-    "links": [
-      {
-        "link": "https://discord.com/invite/5HH4R5KTA3",
-        "name": "Discord"
-      },
-      {
-        "link": "https://twitter.com/Dmailofficial",
-        "name": "Twitter"
-      },
-      {
-        "link": "https://dmail.ai/",
-        "name": "Website"
-      },
-      {
-        "link": "https://t.me/dmailofficial",
-        "name": "Telegram"
-      }
-    ],
-    "commission": 1,
-    "royalty": 8,
-    "feePrinId": "pvmz3-hz4vs-qemfk-krdkr-z7kq2-zegxm-k36g4-dwmab-5rq5x-vta34-5qe",
-    "totalSupply": 266
   }
 ]
