@@ -1,15 +1,9 @@
 [
   {
     "key": "zombie",
-    "nftId": {
-      "test": "46emz-giaaa-aaaah-qcg4q-cai",
-      "line": "iyzne-taaaa-aaaah-qcjga-cai"
-    },
-    "storageId": {
-      "test": "4xhhf-qaaaa-aaaah-qcg5a-cai",
-      "line": "edgk4-5iaaa-aaaai-qa7ha-cai"
-    },
-    "pricinpalId": "iyzne-taaaa-aaaah-qcjga-cai",
+    "nftId":  "46emz-giaaa-aaaah-qcg4q-cai",
+    "storageId": "4xhhf-qaaaa-aaaah-qcg5a-cai",
+    "pricinpalId": "",
     "title": "Crazy Zombie",
     "brief": "CCC’s Crazy Zombie is the only collection of zombies on the IC network.",
     "description": "",
@@ -31,15 +25,9 @@
   },
   {
     "key": "turtles",
-    "nftId": {
-      "test": "uomax-siaaa-aaaai-aba3a-cai",
-      "line": "fl5nr-xiaaa-aaaai-qbjmq-cai"
-    },
-    "storageId": {
-      "test": "p5anc-tyaaa-aaaai-abfvq-cai",
-      "line": "6kxx5-2iaaa-aaaai-qbmba-cai"
-    },
-    "pricinpalId": "fl5nr-xiaaa-aaaai-qbjmq-cai",
+    "nftId":  "uomax-siaaa-aaaai-aba3a-cai",
+    "storageId": "p5anc-tyaaa-aaaai-abfvq-cai",
+    "pricinpalId": "",
     "title": "ICTurtles",
     "brief": "10,000 customizable Turtles built on P2E.",
     "description": "Customizable & breedable NFTS, built on GameFi, dropping with accessories, providing passive income to holders! Collect 3 of a particular background to get a free dungeon airdrop!",
@@ -65,15 +53,9 @@
   },
   {
     "key": "gang",
-    "nftId": {
-      "test": "g53eh-6qaaa-aaaai-qgwuq-cai",
-      "line": "2x3lw-tiaaa-aaaah-qcvca-cai"
-    },
-    "storageId": {
-      "test": "guyp3-iyaaa-aaaai-qgwva-cai",
-      "line": "2q2nc-6qaaa-aaaah-qcvcq-cai"
-    },
-    "pricinpalId": "2x3lw-tiaaa-aaaah-qcvca-cai",
+    "nftId":  "g53eh-6qaaa-aaaai-qgwuq-cai",
+    "storageId": "guyp3-iyaaa-aaaai-qgwva-cai",
+    "pricinpalId": "",
     "title": "DfinityGangs",
     "brief": "DfinityGangs has been airdropped by the Dfinity Community Vietnam, as a certificate of holders engagement in the Dfinity ecosystem.",
     "description": "",
@@ -97,17 +79,9 @@
   },
   {
     "key": "avocado",
-    "nftId": {
-      "local": "jybvk-wqaaa-aaaaa-aac2q-cai",
-      "test": "ptw7o-giaaa-aaaai-qic3a-cai",
-      "line": "bjcsj-rqaaa-aaaah-qcxqq-cai"
-    },
-    "storageId": {
-      "local": "j7at6-3iaaa-aaaaa-aac2a-cai",
-      "test": "fsi6h-6yaaa-aaaai-qidaa-cai",
-      "line": "babzv-hyaaa-aaaah-qcxra-cai"
-    },
-    "pricinpalId": "bjcsj-rqaaa-aaaah-qcxqq-cai",
+    "nftId": "jybvk-wqaaa-aaaaa-aac2q-cai",
+    "storageId":  "j7at6-3iaaa-aaaaa-aac2a-cai",
+    "pricinpalId": "",
     "title": "Avocado Research",
     "brief": "The collection was released by Avocado Research",
     "description": "",
@@ -133,15 +107,9 @@
   },
   {
     "key": "icity",
-    "nftId": {
-      "test": "yfyuv-paaaa-aaaai-qinjq-cai",
-      "line": "q5gez-uaaaa-aaaah-qcyuq-cai"
-    },
-    "storageId": {
-      "test": "yq7fy-oiaaa-aaaai-qinka-cai",
-      "line": "qufpf-ciaaa-aaaah-qcyva-cai"
-    },
-    "pricinpalId": "q5gez-uaaaa-aaaah-qcyuq-cai",
+    "nftId":  "yfyuv-paaaa-aaaai-qinjq-cai",
+    "storageId":  "yq7fy-oiaaa-aaaai-qinka-cai",
+    "pricinpalId": "",
     "title": "ICity ICmoe",
     "brief": "ICmoe is composed of 8888 cute pixel moe-chan",
     "description": "",
@@ -167,15 +135,9 @@
   },
   {
     "key": "lion",
-    "nftId": {
-      "test": "t5oif-oyaaa-aaaai-qiyca-cai",
-      "line": "ygenm-saaaa-aaaah-qczaq-cai"
-    },
-    "storageId": {
-      "test": "t2por-daaaa-aaaai-qiycq-cai",
-      "line": "yphgq-eiaaa-aaaah-qczba-cai"
-    },
-    "pricinpalId": "ygenm-saaaa-aaaah-qczaq-cai",
+    "nftId":  "t5oif-oyaaa-aaaai-qiyca-cai",
+    "storageId": "t2por-daaaa-aaaai-qiycq-cai",
+    "pricinpalId": "",
     "title": "IC LIONS",
     "brief": "IC PARK plans to release many wild animal collections of unique programmatically generated NFTs hosted on the ICP blockchain.",
     "description": "",
@@ -202,15 +164,9 @@
   {
     "key": "shoe",
     "nftType": "video",
-    "nftId": {
-      "test": "zzm63-ryaaa-aaaah-qczea-cai",
-      "line": "2j7u5-nyaaa-aaaah-qczma-cai"
-    },
-    "storageId": {
-      "test": "z6nyp-4aaaa-aaaah-qczeq-cai",
-      "line": "2o6sj-aaaaa-aaaah-qczmq-cai"
-    },
-    "pricinpalId": "2j7u5-nyaaa-aaaah-qczma-cai",
+    "nftId": "zzm63-ryaaa-aaaah-qczea-cai",
+    "storageId": "z6nyp-4aaaa-aaaah-qczeq-cai",
+    "pricinpalId": "",
     "title": "Dragon Boots",
     "brief": "Premiere WEB3.0 brand on ICP👟👑 - Drop001: Dragon Boots",
     "description": "",
@@ -233,15 +189,9 @@
   {
     "key": "car",
     "nftType": "video",
-    "nftId": {
-      "test": "y4lzi-2iaaa-aaaai-qi6cq-cai",
-      "line": "6ykkw-jyaaa-aaaah-qczua-cai"
-    },
-    "storageId": {
-      "test": "yvisu-maaaa-aaaai-qi6da-cai",
-      "line": "67lmc-eaaaa-aaaah-qczuq-cai"
-    },
-    "pricinpalId": "6ykkw-jyaaa-aaaah-qczua-cai",
+    "nftId":  "y4lzi-2iaaa-aaaai-qi6cq-cai",
+    "storageId": "yvisu-maaaa-aaaai-qi6da-cai",
+    "pricinpalId": "",
     "title": "IC CARS",
     "brief": "IC Cars are 3D exclusive collectible car models that can be minted on CCCProtocol and Cetoswap on IC.",
     "description": "",
@@ -267,15 +217,9 @@
   },
   {
     "key": "cat",
-    "nftId": {
-      "test": "jzn57-dqaaa-aaaai-qkdxa-cai",
-      "line": "k3wif-yyaaa-aaaah-qc2ca-cai"
-    },
-    "storageId": {
-      "test": "nqkgt-fqaaa-aaaai-qkeqq-cai",
-      "line": "k4xor-vaaaa-aaaah-qc2cq-cai"
-    },
-    "pricinpalId": "k3wif-yyaaa-aaaah-qc2ca-cai",
+    "nftId":  "jzn57-dqaaa-aaaai-qkdxa-cai",
+    "storageId":  "nqkgt-fqaaa-aaaai-qkeqq-cai",
+    "pricinpalId": "",
     "nftType": "ipfs",
     "title": "Metacats",
     "brief": "Metacats is a collection of 10,000 randomly generated NFTs that were hand-drawn by Izzy, the founder and the lead artist of ICWhiskers.",
@@ -299,15 +243,9 @@
   {
     "key": "ICDmail",
     "nftType": "video",
-    "nftId": {
-      "test": "hleti-rqaaa-aaaai-qll5a-cai",
-      "line": "hleti-rqaaa-aaaai-qll5a-cai"
-    },
-    "storageId": {
-      "test": "hmfv4-4iaaa-aaaai-qll5q-cai",
-      "line": "hmfv4-4iaaa-aaaai-qll5q-cai"
-    },
-    "pricinpalId": "hleti-rqaaa-aaaai-qll5a-cai",
+    "nftId": "hleti-rqaaa-aaaai-qll5a-cai",
+    "storageId":  "hmfv4-4iaaa-aaaai-qll5q-cai",
+    "pricinpalId": "",
     "title": "3D Crystals",
     "brief": "3D Crystals is a limited collection of 2,626 digital collectibles that live on the Dfinity blockchain.",
     "description": "",
