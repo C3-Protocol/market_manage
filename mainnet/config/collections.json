@@ -59,11 +59,7 @@
   {
     "key": "avocado",
     "nftId": "bjcsj-rqaaa-aaaah-qcxqq-cai",
-    "storageId": {
-      "local": "j7at6-3iaaa-aaaaa-aac2a-cai",
-      "test": "fsi6h-6yaaa-aaaai-qidaa-cai",
-      "line": "babzv-hyaaa-aaaah-qcxra-cai"
-    },
+    "storageId": "babzv-hyaaa-aaaah-qcxra-cai",
     "pricinpalId": "bjcsj-rqaaa-aaaah-qcxqq-cai",
     "title": "Avocado Research",
     "brief": "The collection was released by Avocado Research",
