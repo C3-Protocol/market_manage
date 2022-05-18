@@ -1,14 +1,8 @@
 [
   {
     "key": "zombie",
-    "nftId": {
-      "test": "46emz-giaaa-aaaah-qcg4q-cai",
-      "line": "iyzne-taaaa-aaaah-qcjga-cai"
-    },
-    "storageId": {
-      "test": "4xhhf-qaaaa-aaaah-qcg5a-cai",
-      "line": "edgk4-5iaaa-aaaai-qa7ha-cai"
-    },
+    "nftId": "iyzne-taaaa-aaaah-qcjga-cai",
+    "storageId": "iyzne-taaaa-aaaah-qcjga-cai",
     "pricinpalId": "iyzne-taaaa-aaaah-qcjga-cai",
     "title": "Crazy Zombie",
     "brief": "CCC’s Crazy Zombie is the only collection of zombies on the IC network.",
@@ -25,14 +19,8 @@
   },
   {
     "key": "turtles",
-    "nftId": {
-      "test": "uomax-siaaa-aaaai-aba3a-cai",
-      "line": "fl5nr-xiaaa-aaaai-qbjmq-cai"
-    },
-    "storageId": {
-      "test": "p5anc-tyaaa-aaaai-abfvq-cai",
-      "line": "6kxx5-2iaaa-aaaai-qbmba-cai"
-    },
+    "nftId": "fl5nr-xiaaa-aaaai-qbjmq-cai",
+    "storageId": "6kxx5-2iaaa-aaaai-qbmba-cai",
     "pricinpalId": "fl5nr-xiaaa-aaaai-qbjmq-cai",
     "title": "ICTurtles",
     "brief": "10,000 customizable Turtles built on P2E.",
@@ -50,14 +38,8 @@
   },
   {
     "key": "gang",
-    "nftId": {
-      "test": "g53eh-6qaaa-aaaai-qgwuq-cai",
-      "line": "2x3lw-tiaaa-aaaah-qcvca-cai"
-    },
-    "storageId": {
-      "test": "guyp3-iyaaa-aaaai-qgwva-cai",
-      "line": "2q2nc-6qaaa-aaaah-qcvcq-cai"
-    },
+    "nftId": "2x3lw-tiaaa-aaaah-qcvca-cai",
+    "storageId": "2q2nc-6qaaa-aaaah-qcvcq-cai",
     "pricinpalId": "2x3lw-tiaaa-aaaah-qcvca-cai",
     "title": "DfinityGangs",
     "brief": "DfinityGangs has been airdropped by the Dfinity Community Vietnam, as a certificate of holders engagement in the Dfinity ecosystem.",
@@ -76,11 +58,7 @@
   },
   {
     "key": "avocado",
-    "nftId": {
-      "local": "jybvk-wqaaa-aaaaa-aac2q-cai",
-      "test": "ptw7o-giaaa-aaaai-qic3a-cai",
-      "line": "bjcsj-rqaaa-aaaah-qcxqq-cai"
-    },
+    "nftId": "bjcsj-rqaaa-aaaah-qcxqq-cai",
     "storageId": {
       "local": "j7at6-3iaaa-aaaaa-aac2a-cai",
       "test": "fsi6h-6yaaa-aaaai-qidaa-cai",
@@ -103,14 +81,8 @@
   },
   {
     "key": "icity",
-    "nftId": {
-      "test": "yfyuv-paaaa-aaaai-qinjq-cai",
-      "line": "q5gez-uaaaa-aaaah-qcyuq-cai"
-    },
-    "storageId": {
-      "test": "yq7fy-oiaaa-aaaai-qinka-cai",
-      "line": "qufpf-ciaaa-aaaah-qcyva-cai"
-    },
+    "nftId": "q5gez-uaaaa-aaaah-qcyuq-cai",
+    "storageId": "qufpf-ciaaa-aaaah-qcyva-cai",
     "pricinpalId": "q5gez-uaaaa-aaaah-qcyuq-cai",
     "title": "ICity ICmoe",
     "brief": "ICmoe is composed of 8888 cute pixel moe-chan",
@@ -128,14 +100,8 @@
   },
   {
     "key": "lion",
-    "nftId": {
-      "test": "t5oif-oyaaa-aaaai-qiyca-cai",
-      "line": "ygenm-saaaa-aaaah-qczaq-cai"
-    },
-    "storageId": {
-      "test": "t2por-daaaa-aaaai-qiycq-cai",
-      "line": "yphgq-eiaaa-aaaah-qczba-cai"
-    },
+    "nftId": "ygenm-saaaa-aaaah-qczaq-cai",
+    "storageId": "yphgq-eiaaa-aaaah-qczba-cai",
     "pricinpalId": "ygenm-saaaa-aaaah-qczaq-cai",
     "title": "IC LIONS",
     "brief": "IC PARK plans to release many wild animal collections of unique programmatically generated NFTs hosted on the ICP blockchain.",
@@ -154,14 +120,8 @@
   {
     "key": "shoe",
     "nftType": "video",
-    "nftId": {
-      "test": "zzm63-ryaaa-aaaah-qczea-cai",
-      "line": "2j7u5-nyaaa-aaaah-qczma-cai"
-    },
-    "storageId": {
-      "test": "z6nyp-4aaaa-aaaah-qczeq-cai",
-      "line": "2o6sj-aaaaa-aaaah-qczmq-cai"
-    },
+    "nftId": "2j7u5-nyaaa-aaaah-qczma-cai",
+    "storageId": "2o6sj-aaaaa-aaaah-qczmq-cai",
     "pricinpalId": "2j7u5-nyaaa-aaaah-qczma-cai",
     "title": "Dragon Boots",
     "brief": "Premiere WEB3.0 brand on ICP👟👑 - Drop001: Dragon Boots",
@@ -179,14 +139,8 @@
   {
     "key": "car",
     "nftType": "video",
-    "nftId": {
-      "test": "y4lzi-2iaaa-aaaai-qi6cq-cai",
-      "line": "6ykkw-jyaaa-aaaah-qczua-cai"
-    },
-    "storageId": {
-      "test": "yvisu-maaaa-aaaai-qi6da-cai",
-      "line": "67lmc-eaaaa-aaaah-qczuq-cai"
-    },
+    "nftId": "6ykkw-jyaaa-aaaah-qczua-cai",
+    "storageId": "67lmc-eaaaa-aaaah-qczuq-cai",
     "pricinpalId": "6ykkw-jyaaa-aaaah-qczua-cai",
     "title": "IC CARS",
     "brief": "IC Cars are 3D exclusive collectible car models that can be minted on CCCProtocol and Cetoswap on IC.",
@@ -204,14 +158,8 @@
   },
   {
     "key": "cat",
-    "nftId": {
-      "test": "jzn57-dqaaa-aaaai-qkdxa-cai",
-      "line": "k3wif-yyaaa-aaaah-qc2ca-cai"
-    },
-    "storageId": {
-      "test": "nqkgt-fqaaa-aaaai-qkeqq-cai",
-      "line": "k4xor-vaaaa-aaaah-qc2cq-cai"
-    },
+    "nftId": "k3wif-yyaaa-aaaah-qc2ca-cai",
+    "storageId": "k3wif-yyaaa-aaaah-qc2ca-cai",
     "pricinpalId": "k3wif-yyaaa-aaaah-qc2ca-cai",
     "nftType": "ipfs",
     "title": "Metacats",
@@ -232,5 +180,38 @@
     "royalty": 3,
     "feePrinId": "jvlmo-ev6uy-76llh-4vzjp-gplev-5wlhr-57wg4-upogo-ejw2b-rqoko-cae",
     "totalSupply": 10000
+  },
+  {
+    "key": "ICDmail",
+    "nftType": "video",
+    "nftId": "nusra-3iaaa-aaaah-qc2ta-cai",
+    "storageId": "nttxu-wqaaa-aaaah-qc2tq-cai",
+    "pricinpalId": "nusra-3iaaa-aaaah-qc2ta-cai",
+    "title": "3D Crystals",
+    "brief": "3D Crystals is a limited collection of 2,626 digital collectibles that live on the Dfinity blockchain.",
+    "description": "",
+    "blurb": "<p>3D Crystals is a limited collection of 2,626 digital collectibles that live on the Dfinity blockchain. It was created by decentralized mailbox DApp“Dmail Network” to incentivize early supporters, domain account holders, and community active users. Every NFT is unique and randomly generated. The holders can access to private club, experience products and more. We rise together. We build together. We grow together. Learn more about Dmail, https://linktr.ee/dmail</p>",
+    "links": [
+      {
+        "link": "https://discord.com/invite/5HH4R5KTA3",
+        "name": "Discord"
+      },
+      {
+        "link": "https://twitter.com/Dmailofficial",
+        "name": "Twitter"
+      },
+      {
+        "link": "https://dmail.ai/",
+        "name": "Website"
+      },
+      {
+        "link": "https://t.me/dmailofficial",
+        "name": "Telegram"
+      }
+    ],
+    "commission": 1,
+    "royalty": 8,
+    "feePrinId": "sstk5-46dhc-6lrui-j7dxb-es7wu-35wuc-3puhj-45ujw-rnlb2-ts57u-aae",
+    "totalSupply": 266
   }
 ]
