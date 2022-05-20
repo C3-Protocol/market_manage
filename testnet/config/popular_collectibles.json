@@ -19,5 +19,12 @@
     "index": 5,
     "name": "1155Theme-test5",
     "image_url": "https://testnet.c3-protocol.art/resource/popular_collectibles/theme1155/5.jpeg"
+  },
+  {
+    "cid": "grieg-dqaaa-aaaai-qfkta-cai",
+    "type": "m1155",
+    "index": 2,
+    "name": "m1155-test5",
+    "image_url": "https://testnet.c3-protocol.art/resource/popular_collectibles/m1155/5.jpeg"
   }
 ]
