@@ -1,9 +1,23 @@
 [
-	 {
-        "cid":"grieg-dqaaa-aaaai-qfkta-cai",
-        "type":"theme1155",
-        "index": 2,
-        "name": "1155Theme-test1",
-        "image_url": "https://testnet.c3-protocol.art/resource/popular_collectibles/theme1155/2.jpeg"
-    }
+  {
+    "cid": "grieg-dqaaa-aaaai-qfkta-cai",
+    "type": "theme1155",
+    "index": 2,
+    "name": "1155Theme-test1",
+    "image_url": "https://testnet.c3-protocol.art/resource/popular_collectibles/theme1155/2.jpeg"
+  },
+  {
+    "cid": "grieg-dqaaa-aaaai-qfkta-cai",
+    "type": "theme1155",
+    "index": 3,
+    "name": "1155Theme-test3",
+    "image_url": "https://testnet.c3-protocol.art/resource/popular_collectibles/theme1155/3.jpeg"
+  },
+  {
+    "cid": "grieg-dqaaa-aaaai-qfkta-cai",
+    "type": "theme1155",
+    "index": 5,
+    "name": "1155Theme-test5",
+    "image_url": "https://testnet.c3-protocol.art/resource/popular_collectibles/theme1155/5.jpeg"
+  }
 ]
