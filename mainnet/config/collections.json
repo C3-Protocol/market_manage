@@ -209,5 +209,35 @@
     "royalty": 8,
     "feePrinId": "sstk5-46dhc-6lrui-j7dxb-es7wu-35wuc-3puhj-45ujw-rnlb2-ts57u-aae",
     "totalSupply": 266
+  },
+  {
+    "key": "kverso",
+    "nftType": "blindbox",
+    "nftId": "ml2cx-yqaaa-aaaah-qc2xq-cai",
+    "storageId":  "owhm7-lyaaa-aaaah-qc2ya-cai",
+    "pricinpalId": "ml2cx-yqaaa-aaaah-qc2xq-cai",
+    "title": "ICKverso",
+    "brief": "KABI, more than pfp",
+    "description": "",
+    "blurb": "<p>KABI, more than pfp.</p><p>Based on 3D high-surface modeling and ray tracing technology, team KVERSO selected 10,000 portraits with unique aesthetic styles according to world ethnic percentages, offering a differentiated option for art connoisseurs and investors who believe in decentralization.To show our support for diversity and minority groups. Team KVERSO designed 2% of the characters with diversified characteristics across the world. KABI holders will receive various benefits in the K-Universe such as Honorary Title, Digital Apparel, Land Purchase priority, and more! </p><p>View the collection at  <a href=\"https://www.kverso.com/pfp\" target=\"_blank\" rel=\"noopener noreferrer\"> www.kverso.com/pfp </a></p><p>Defined by nobody.</p>",
+    "links": [{
+        "link": "https://discord.gg/kverso",
+        "name": "Discord"
+      },
+      {
+        "link": "https://twitter.com/kverso_crypto",
+        "name": "Twitter"
+      },
+      {
+        "link": "www.kverso.com",
+        "name": "Website"
+      },{
+        "link": "https://linktr.ee/kverso_crypto",
+        "name": "Telegram"
+      }],
+    "commission": 1,
+    "royalty": 8,
+    "feePrinId": "kzgas-coxy5-jsmfh-c25m4-7s2ud-bqu3u-dyk2x-agabh-ozoe2-y7p5s-7qe",
+    "totalSupply": 1000
   }
 ]

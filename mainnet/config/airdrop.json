@@ -68,5 +68,12 @@
     "subTitle": "3D Crystal",
     "airdropStart": true,
     "airdropIndex": 10
+  },
+  {
+    "key": "kverso",
+    "title": "Kverso",
+    "subTitle": "Defined by Nobody",
+    "airdropStart": true,
+    "airdropIndex": 11
   }
 ]
