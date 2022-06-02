@@ -1,6 +1,10 @@
 [
   {
-    "project": "ICDmail",
-    "image_url": "https://testnet.c3-protocol.art/resource/ICDmail/banner.png"
+    "project": "kverso",
+    "image_url": "https://testnet.c3-protocol.art/resource/kverso/banner.png"
+  },
+  {
+    "project": "icyberSkull",
+    "image_url": "https://testnet.c3-protocol.art/resource/icyberSkull/banner.png"
   }
 ]
