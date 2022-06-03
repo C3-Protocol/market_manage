@@ -239,5 +239,25 @@
     "royalty": 8,
     "feePrinId": "kzgas-coxy5-jsmfh-c25m4-7s2ud-bqu3u-dyk2x-agabh-ozoe2-y7p5s-7qe",
     "totalSupply": 1000
+  },
+  {
+    "key": "icyberSkull",
+    "nftType": "blindbox",
+    "nftId": "o7ehd-5qaaa-aaaah-qc2zq-cai",
+    "storageId":  "okdwo-4yaaa-aaaah-qc22a-cai",
+    "pricinpalId": "o7ehd-5qaaa-aaaah-qc2zq-cai",
+    "title": "ICyber Skull",
+    "brief": "ICyberSkull (ICS) is 888 pieces of art created by Duo.",
+    "description": "",
+    "blurb": "<p>ICyberSkull (ICS) is 888 pieces of art created by Duo. No generative software is used and all pieces are made by hand. Each piece is unique and has no rarity. ICS is not just pixel art. We will see many different types of ICS in the future. ICS will evolve with the community.</p>",
+    "links": [
+      {
+        "link": "https://twitter.com/ICyberSkull",
+        "name": "Twitter"
+      }],
+    "commission": 1,
+    "royalty": 8,
+    "feePrinId": "3ar4w-ffef2-a6jq6-mgxsm-zqj7n-obxmz-zzgoc-grftn-vrzg3-w4s2t-7ae",
+    "totalSupply": 888
   }
 ]
