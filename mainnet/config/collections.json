@@ -18,22 +18,22 @@
     "totalSupply": 5000
   },
   {
-    "key": "turtles",
-    "nftId": "fl5nr-xiaaa-aaaai-qbjmq-cai",
-    "storageId": "6kxx5-2iaaa-aaaai-qbmba-cai",
-    "pricinpalId": "fl5nr-xiaaa-aaaai-qbjmq-cai",
-    "title": "ICTurtles",
-    "brief": "10,000 customizable Turtles built on P2E.",
-    "description": "Customizable & breedable NFTS, built on GameFi, dropping with accessories, providing passive income to holders! Collect 3 of a particular background to get a free dungeon airdrop!",
-    "blurb": "<p>Welcome to ICTurtles, an NFT project based around customizability, GameFI, DeFI, and other novel game integrations! We have been awarded a $25k grant from Dfinity help build out their vision! Some unique utility of the project include:</p><p>- mutable metadata and customizable art with accessories/breeding 👒<br />- automated passive-income distribution 💰<br />- explorable environments minted on-chain 🌎<br />- P2E game integrations 🎮<br />- audio NFT integrations 🔈<br />- Faction and team game mechanics 🏘️<br />- DAO-governed community treasury 🤑<br />- and more! 🚀</p><p>We are currently building an explorable P2E/GameFi dungeon-based game with unique interactions with different turtles. Each dungeon is stored on-chain and varies widely with its difficulty, allowed team size, puzzles,and combat! Completing these challenges will give you rewards! There will be large-scale competitions with factions and even more rewards! This game will be designed with different standards in mind, and will be interoperable with your favorite NFTs! Conquer different dungeons and collect your own unique universe!</p><p>Another \"key\" aspect of our roadmap is the DAO-governed community treasury, which goes hand and hand with our passive income and Defi applications. Turtle holders will have a direct stake in any revenue streams of the project. This includes royalties and future native token rewards. ICTurtles\" ambitions also stretch beyond just an NFT project. There are many plans to create NFT infrastructure that benefits the IC as a whole. Turtle holders will be rewarded with all these developments.</p>",
+    "key": "avocado",
+    "nftId": "bjcsj-rqaaa-aaaah-qcxqq-cai",
+    "storageId": "babzv-hyaaa-aaaah-qcxra-cai",
+    "pricinpalId": "bjcsj-rqaaa-aaaah-qcxqq-cai",
+    "title": "Avocado Research",
+    "brief": "The collection was released by Avocado Research",
+    "description": "",
+    "blurb": "<p>The collection was released by Avocado Research, an analytics service that has been actively participating and analyzing NFTs in the Internet Computer ecosystem since the early days. Collection consists of 10,000 NFTs, each of which is part of the collective neuron. Income from the neuron is distributed among the holders.</p>",
     "links": [
-      { "link": "https://icturtles.com/", "name": "Website" },
-      { "link": "https://discord.gg/n77xjyspDR", "name": "Discord" },
-      { "link": "https://twitter.com/ic_turtles", "name": "Twitter" }
+      { "link": "https://linktr.ee/av8cado", "name": "Website" },
+      { "link": "http://discord.gg/EwDzF3MBpv", "name": "Discord" },
+      { "link": "https://twitter.com/av8cado", "name": "Twitter" }
     ],
     "commission": 1,
-    "royalty": 2.5,
-    "feePrinId": "h3mz7-whx7j-fayis-ycrmn-hrbxv-gdmm4-r5yyt-uhj2q-ngfxs-v333k-mqe",
+    "royalty": 2,
+    "feePrinId": "77kbo-fb2fm-zndca-3gzxb-vmn2v-li67y-af3as-ab75a-7x7iz-75u5a-hae",
     "totalSupply": 10000
   },
   {
@@ -57,61 +57,34 @@
     "totalSupply": 10000
   },
   {
-    "key": "avocado",
-    "nftId": "bjcsj-rqaaa-aaaah-qcxqq-cai",
-    "storageId": "babzv-hyaaa-aaaah-qcxra-cai",
-    "pricinpalId": "bjcsj-rqaaa-aaaah-qcxqq-cai",
-    "title": "Avocado Research",
-    "brief": "The collection was released by Avocado Research",
+    "key": "kverso",
+    "nftType": "blindbox",
+    "nftId": "ml2cx-yqaaa-aaaah-qc2xq-cai",
+    "storageId":  "owhm7-lyaaa-aaaah-qc2ya-cai",
+    "pricinpalId": "ml2cx-yqaaa-aaaah-qc2xq-cai",
+    "title": "ICKverso",
+    "brief": "KABI, more than pfp",
     "description": "",
-    "blurb": "<p>The collection was released by Avocado Research, an analytics service that has been actively participating and analyzing NFTs in the Internet Computer ecosystem since the early days. Collection consists of 10,000 NFTs, each of which is part of the collective neuron. Income from the neuron is distributed among the holders.</p>",
-    "links": [
-      { "link": "https://linktr.ee/av8cado", "name": "Website" },
-      { "link": "http://discord.gg/EwDzF3MBpv", "name": "Discord" },
-      { "link": "https://twitter.com/av8cado", "name": "Twitter" }
-    ],
+    "blurb": "<p>KABI, more than pfp.</p><p>Based on 3D high-surface modeling and ray tracing technology, team KVERSO selected 10,000 portraits with unique aesthetic styles according to world ethnic percentages, offering a differentiated option for art connoisseurs and investors who believe in decentralization.To show our support for diversity and minority groups. Team KVERSO designed 2% of the characters with diversified characteristics across the world. KABI holders will receive various benefits in the K-Universe such as Honorary Title, Digital Apparel, Land Purchase priority, and more! </p><p>View the collection at  <a href=\"https://www.kverso.com/pfp\" target=\"_blank\" rel=\"noopener noreferrer\"> www.kverso.com/pfp </a></p><p>Defined by nobody.</p>",
+    "links": [{
+        "link": "https://discord.gg/kverso",
+        "name": "Discord"
+      },
+      {
+        "link": "https://twitter.com/kverso_crypto",
+        "name": "Twitter"
+      },
+      {
+        "link": "https://www.kverso.com/",
+        "name": "Website"
+      },{
+        "link": "https://linktr.ee/kverso_crypto",
+        "name": "Telegram"
+      }],
     "commission": 1,
-    "royalty": 2,
-    "feePrinId": "77kbo-fb2fm-zndca-3gzxb-vmn2v-li67y-af3as-ab75a-7x7iz-75u5a-hae",
-    "totalSupply": 10000
-  },
-  {
-    "key": "icity",
-    "nftId": "q5gez-uaaaa-aaaah-qcyuq-cai",
-    "storageId": "qufpf-ciaaa-aaaah-qcyva-cai",
-    "pricinpalId": "q5gez-uaaaa-aaaah-qcyuq-cai",
-    "title": "ICity ICmoe",
-    "brief": "ICmoe is composed of 8888 cute pixel moe-chan",
-    "description": "",
-    "blurb": "<p>ICmoe is composed of 8888 cute pixel moe-chan, they will become important identity credentials in the later ecology of ICity, and will play a huge role in land minting and DAO functions,you can learn more about the city on our website or on Twitter.and 1% of your transaction fee will be converted into the fund pool, and all ICmoe holders will enjoy the shares of the fund pool. The only way to cash out the shares is to destroy ICmoe. And the fund pool will continue to buy new NFTs for destruction</p>",
-    "links": [
-      { "link": "www.dfinitycity.ml", "name": "Website" },
-      { "link": "http://discord.gg/8wXdqTeHeq", "name": "Discord" },
-      { "link": "https://twitter.com/DfinityCity", "name": "Twitter" }
-    ],
-    "commission": 1,
-    "royalty": 2,
-    "feePrinId": "34vhj-p74zh-ielny-ifxlv-dokno-ol35u-wttb4-elebe-zebst-rqnms-nae",
-    "totalSupply": 8888
-  },
-  {
-    "key": "lion",
-    "nftId": "ygenm-saaaa-aaaah-qczaq-cai",
-    "storageId": "yphgq-eiaaa-aaaah-qczba-cai",
-    "pricinpalId": "ygenm-saaaa-aaaah-qczaq-cai",
-    "title": "IC LIONS",
-    "brief": "IC PARK plans to release many wild animal collections of unique programmatically generated NFTs hosted on the ICP blockchain.",
-    "description": "",
-    "blurb": "<p>IC PARK plans to release many wild animal collections of unique programmatically generated NFTs hosted on the ICP blockchain. The start will be 2222 NFT wild lions on DFINITY that will be 100% FREE to this wonderful community. Each lion is unique – just like you and programmatically generated from over 150 potential attributes, including clothes, hair, head, and more. Holding two lions allows you to mint our upcoming collection (IC Kongs) for free. We Count on \"royalty\" fees from the marketplace to build our park.</p>",
-    "links": [
-      { "link": "https://ICPARK.IO", "name": "Website" },
-      { "link": "https://discord.gg/Xarzp2u8SZ", "name": "Discord" },
-      { "link": "https://twitter.com/icppark", "name": "Twitter" }
-    ],
-    "commission": 1,
-    "royalty": 5,
-    "feePrinId": "gagpr-a4jnm-e7cng-uozeh-abz44-3oabb-ethp6-qcacg-aow53-ycba6-nqe",
-    "totalSupply": 2222
+    "royalty": 8,
+    "feePrinId": "kzgas-coxy5-jsmfh-c25m4-7s2ud-bqu3u-dyk2x-agabh-ozoe2-y7p5s-7qe",
+    "totalSupply": 1000
   },
   {
     "key": "shoe",
@@ -131,51 +104,6 @@
     "royalty": 3,
     "feePrinId": "pvmz3-hz4vs-qemfk-krdkr-z7kq2-zegxm-k36g4-dwmab-5rq5x-vta34-5qe",
     "totalSupply": 266
-  },
-  {
-    "key": "car",
-    "nftType": "video",
-    "nftId": "6ykkw-jyaaa-aaaah-qczua-cai",
-    "storageId": "67lmc-eaaaa-aaaah-qczuq-cai",
-    "pricinpalId": "6ykkw-jyaaa-aaaah-qczua-cai",
-    "title": "IC CARS",
-    "brief": "IC Cars are 3D exclusive collectible car models that can be minted on CCCProtocol and Cetoswap on IC.",
-    "description": "",
-    "blurb": "<p>IC Cars are 3D exclusive collectible car models that can be minted on CCCProtocol and Cetoswap on IC. IC Car owners will get a chance to win the lottery prizes, where each car is considered as 1 lottery ticket.</p>",
-    "links": [
-      { "link": " https://www.iccars.xyz/", "name": "Website" },
-      { "link": "https://discord.gg/nGpT9V9Mve", "name": "Discord" },
-      { "link": "https://twitter.com/iccars", "name": "Twitter" }
-    ],
-    "commission": 1,
-    "royalty": 3,
-    "feePrinId": "rmio5-7zn27-y5jw5-57mhs-tlvj5-qeia7-bq3fr-yfubz-qsven-yznzz-bae",
-    "totalSupply": 8000
-  },
-  {
-    "key": "cat",
-    "nftId": "k3wif-yyaaa-aaaah-qc2ca-cai",
-    "storageId": "k4xor-vaaaa-aaaah-qc2cq-cai",
-    "pricinpalId": "k3wif-yyaaa-aaaah-qc2ca-cai",
-    "nftType": "ipfs",
-    "title": "Metacats",
-    "brief": "Metacats is a collection of 10,000 randomly generated NFTs that were hand-drawn by Izzy, the founder and the lead artist of ICWhiskers.",
-    "description": "",
-    "blurb": "<p>Metacats is a collection of 10,000 randomly generated NFTs that were hand-drawn by Izzy, the founder and the lead artist of ICWhiskers. These Cattos will be airdropped to the community in order to give our supporters a small token of our gratitude as we continue ICWhiskers’ journey into the open digital realms on Internet Computer Protocol. There are three versions of the Metacats: Starstruck, Skull Face, and Classic, which come in a variety of colors, personalities, and accessories. These collectibles act as an access key to the exclusive holder-only DSCVR portal after the launch.</p>",
-    "links": [
-      {
-        "link": "https://discord.gg/xKpycnJ2Ar",
-        "name": "Discord"
-      },
-      {
-        "link": "https://twitter.com/ICWhiskers",
-        "name": "Twitter"
-      }
-    ],
-    "commission": 1,
-    "royalty": 3,
-    "feePrinId": "jvlmo-ev6uy-76llh-4vzjp-gplev-5wlhr-57wg4-upogo-ejw2b-rqoko-cae",
-    "totalSupply": 10000
   },
   {
     "key": "ICDmail",
@@ -211,36 +139,6 @@
     "totalSupply": 266
   },
   {
-    "key": "kverso",
-    "nftType": "blindbox",
-    "nftId": "ml2cx-yqaaa-aaaah-qc2xq-cai",
-    "storageId":  "owhm7-lyaaa-aaaah-qc2ya-cai",
-    "pricinpalId": "ml2cx-yqaaa-aaaah-qc2xq-cai",
-    "title": "ICKverso",
-    "brief": "KABI, more than pfp",
-    "description": "",
-    "blurb": "<p>KABI, more than pfp.</p><p>Based on 3D high-surface modeling and ray tracing technology, team KVERSO selected 10,000 portraits with unique aesthetic styles according to world ethnic percentages, offering a differentiated option for art connoisseurs and investors who believe in decentralization.To show our support for diversity and minority groups. Team KVERSO designed 2% of the characters with diversified characteristics across the world. KABI holders will receive various benefits in the K-Universe such as Honorary Title, Digital Apparel, Land Purchase priority, and more! </p><p>View the collection at  <a href=\"https://www.kverso.com/pfp\" target=\"_blank\" rel=\"noopener noreferrer\"> www.kverso.com/pfp </a></p><p>Defined by nobody.</p>",
-    "links": [{
-        "link": "https://discord.gg/kverso",
-        "name": "Discord"
-      },
-      {
-        "link": "https://twitter.com/kverso_crypto",
-        "name": "Twitter"
-      },
-      {
-        "link": "https://www.kverso.com/",
-        "name": "Website"
-      },{
-        "link": "https://linktr.ee/kverso_crypto",
-        "name": "Telegram"
-      }],
-    "commission": 1,
-    "royalty": 8,
-    "feePrinId": "kzgas-coxy5-jsmfh-c25m4-7s2ud-bqu3u-dyk2x-agabh-ozoe2-y7p5s-7qe",
-    "totalSupply": 1000
-  },
-  {
     "key": "icyberSkull",
     "nftType": "blindbox",
     "nftId": "o7ehd-5qaaa-aaaah-qc2zq-cai",
@@ -259,5 +157,107 @@
     "royalty": 8,
     "feePrinId": "3ar4w-ffef2-a6jq6-mgxsm-zqj7n-obxmz-zzgoc-grftn-vrzg3-w4s2t-7ae",
     "totalSupply": 888
+  },
+  {
+    "key": "car",
+    "nftType": "video",
+    "nftId": "6ykkw-jyaaa-aaaah-qczua-cai",
+    "storageId": "67lmc-eaaaa-aaaah-qczuq-cai",
+    "pricinpalId": "6ykkw-jyaaa-aaaah-qczua-cai",
+    "title": "IC CARS",
+    "brief": "IC Cars are 3D exclusive collectible car models that can be minted on CCCProtocol and Cetoswap on IC.",
+    "description": "",
+    "blurb": "<p>IC Cars are 3D exclusive collectible car models that can be minted on CCCProtocol and Cetoswap on IC. IC Car owners will get a chance to win the lottery prizes, where each car is considered as 1 lottery ticket.</p>",
+    "links": [
+      { "link": " https://www.iccars.xyz/", "name": "Website" },
+      { "link": "https://discord.gg/nGpT9V9Mve", "name": "Discord" },
+      { "link": "https://twitter.com/iccars", "name": "Twitter" }
+    ],
+    "commission": 1,
+    "royalty": 3,
+    "feePrinId": "rmio5-7zn27-y5jw5-57mhs-tlvj5-qeia7-bq3fr-yfubz-qsven-yznzz-bae",
+    "totalSupply": 8000
+  },
+  {
+    "key": "icity",
+    "nftId": "q5gez-uaaaa-aaaah-qcyuq-cai",
+    "storageId": "qufpf-ciaaa-aaaah-qcyva-cai",
+    "pricinpalId": "q5gez-uaaaa-aaaah-qcyuq-cai",
+    "title": "ICity ICmoe",
+    "brief": "ICmoe is composed of 8888 cute pixel moe-chan",
+    "description": "",
+    "blurb": "<p>ICmoe is composed of 8888 cute pixel moe-chan, they will become important identity credentials in the later ecology of ICity, and will play a huge role in land minting and DAO functions,you can learn more about the city on our website or on Twitter.and 1% of your transaction fee will be converted into the fund pool, and all ICmoe holders will enjoy the shares of the fund pool. The only way to cash out the shares is to destroy ICmoe. And the fund pool will continue to buy new NFTs for destruction</p>",
+    "links": [
+      { "link": "www.dfinitycity.ml", "name": "Website" },
+      { "link": "http://discord.gg/8wXdqTeHeq", "name": "Discord" },
+      { "link": "https://twitter.com/DfinityCity", "name": "Twitter" }
+    ],
+    "commission": 1,
+    "royalty": 2,
+    "feePrinId": "34vhj-p74zh-ielny-ifxlv-dokno-ol35u-wttb4-elebe-zebst-rqnms-nae",
+    "totalSupply": 8888
+  },
+  {
+    "key": "turtles",
+    "nftId": "fl5nr-xiaaa-aaaai-qbjmq-cai",
+    "storageId": "6kxx5-2iaaa-aaaai-qbmba-cai",
+    "pricinpalId": "fl5nr-xiaaa-aaaai-qbjmq-cai",
+    "title": "ICTurtles",
+    "brief": "10,000 customizable Turtles built on P2E.",
+    "description": "Customizable & breedable NFTS, built on GameFi, dropping with accessories, providing passive income to holders! Collect 3 of a particular background to get a free dungeon airdrop!",
+    "blurb": "<p>Welcome to ICTurtles, an NFT project based around customizability, GameFI, DeFI, and other novel game integrations! We have been awarded a $25k grant from Dfinity help build out their vision! Some unique utility of the project include:</p><p>- mutable metadata and customizable art with accessories/breeding 👒<br />- automated passive-income distribution 💰<br />- explorable environments minted on-chain 🌎<br />- P2E game integrations 🎮<br />- audio NFT integrations 🔈<br />- Faction and team game mechanics 🏘️<br />- DAO-governed community treasury 🤑<br />- and more! 🚀</p><p>We are currently building an explorable P2E/GameFi dungeon-based game with unique interactions with different turtles. Each dungeon is stored on-chain and varies widely with its difficulty, allowed team size, puzzles,and combat! Completing these challenges will give you rewards! There will be large-scale competitions with factions and even more rewards! This game will be designed with different standards in mind, and will be interoperable with your favorite NFTs! Conquer different dungeons and collect your own unique universe!</p><p>Another \"key\" aspect of our roadmap is the DAO-governed community treasury, which goes hand and hand with our passive income and Defi applications. Turtle holders will have a direct stake in any revenue streams of the project. This includes royalties and future native token rewards. ICTurtles\" ambitions also stretch beyond just an NFT project. There are many plans to create NFT infrastructure that benefits the IC as a whole. Turtle holders will be rewarded with all these developments.</p>",
+    "links": [
+      { "link": "https://icturtles.com/", "name": "Website" },
+      { "link": "https://discord.gg/n77xjyspDR", "name": "Discord" },
+      { "link": "https://twitter.com/ic_turtles", "name": "Twitter" }
+    ],
+    "commission": 1,
+    "royalty": 2.5,
+    "feePrinId": "h3mz7-whx7j-fayis-ycrmn-hrbxv-gdmm4-r5yyt-uhj2q-ngfxs-v333k-mqe",
+    "totalSupply": 10000
+  },
+  {
+    "key": "lion",
+    "nftId": "ygenm-saaaa-aaaah-qczaq-cai",
+    "storageId": "yphgq-eiaaa-aaaah-qczba-cai",
+    "pricinpalId": "ygenm-saaaa-aaaah-qczaq-cai",
+    "title": "IC LIONS",
+    "brief": "IC PARK plans to release many wild animal collections of unique programmatically generated NFTs hosted on the ICP blockchain.",
+    "description": "",
+    "blurb": "<p>IC PARK plans to release many wild animal collections of unique programmatically generated NFTs hosted on the ICP blockchain. The start will be 2222 NFT wild lions on DFINITY that will be 100% FREE to this wonderful community. Each lion is unique – just like you and programmatically generated from over 150 potential attributes, including clothes, hair, head, and more. Holding two lions allows you to mint our upcoming collection (IC Kongs) for free. We Count on \"royalty\" fees from the marketplace to build our park.</p>",
+    "links": [
+      { "link": "https://ICPARK.IO", "name": "Website" },
+      { "link": "https://discord.gg/Xarzp2u8SZ", "name": "Discord" },
+      { "link": "https://twitter.com/icppark", "name": "Twitter" }
+    ],
+    "commission": 1,
+    "royalty": 5,
+    "feePrinId": "gagpr-a4jnm-e7cng-uozeh-abz44-3oabb-ethp6-qcacg-aow53-ycba6-nqe",
+    "totalSupply": 2222
+  },
+  {
+    "key": "cat",
+    "nftId": "k3wif-yyaaa-aaaah-qc2ca-cai",
+    "storageId": "k4xor-vaaaa-aaaah-qc2cq-cai",
+    "pricinpalId": "k3wif-yyaaa-aaaah-qc2ca-cai",
+    "nftType": "ipfs",
+    "title": "Metacats",
+    "brief": "Metacats is a collection of 10,000 randomly generated NFTs that were hand-drawn by Izzy, the founder and the lead artist of ICWhiskers.",
+    "description": "",
+    "blurb": "<p>Metacats is a collection of 10,000 randomly generated NFTs that were hand-drawn by Izzy, the founder and the lead artist of ICWhiskers. These Cattos will be airdropped to the community in order to give our supporters a small token of our gratitude as we continue ICWhiskers’ journey into the open digital realms on Internet Computer Protocol. There are three versions of the Metacats: Starstruck, Skull Face, and Classic, which come in a variety of colors, personalities, and accessories. These collectibles act as an access key to the exclusive holder-only DSCVR portal after the launch.</p>",
+    "links": [
+      {
+        "link": "https://discord.gg/xKpycnJ2Ar",
+        "name": "Discord"
+      },
+      {
+        "link": "https://twitter.com/ICWhiskers",
+        "name": "Twitter"
+      }
+    ],
+    "commission": 1,
+    "royalty": 3,
+    "feePrinId": "jvlmo-ev6uy-76llh-4vzjp-gplev-5wlhr-57wg4-upogo-ejw2b-rqoko-cae",
+    "totalSupply": 10000
   }
 ]
