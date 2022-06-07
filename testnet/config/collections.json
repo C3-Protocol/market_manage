@@ -322,6 +322,25 @@
     "royalty": 8,
     "feePrinId": "",
     "totalSupply": 888
+  },
+  {
+    "key": "azumi",
+    "nftType": "video",
+    "nftId": "2tcrw-dyaaa-aaaai-qm2fa-cai",
+    "storageId": " 2udxc-oaaaa-aaaai-qm2fq-cai",
+    "pricinpalId": "",
+    "title": "Azumi",
+    "brief": "The Azumi Four Seasons Collection is Nyan Nyan Studio's first art collection",
+    "description": "",
+    "blurb": "<p>The Azumi Four Seasons Collection is Nyan Nyan Studio's first art collection, it is proof of the early investment by investors in NyanNyan Studio, Azumi owners will receive airdrop for the 2nd  and the 3rd collection of NyanNyanStudio</p>",
+    "links": [{
+        "link": "https://twitter.com/nyannyanstudio",
+        "name": "Twitter"}
+    ],
+    "commission": 1,
+    "royalty": 8,
+    "feePrinId": "",
+    "totalSupply": 666
   }
 
 ]

@@ -33,12 +33,18 @@
     "key": "kverso",
     "price": 2.5,
     "supplyCount": 1000,
-    "endMint": false
+    "endMint": true
   },
   {
     "key": "icyberSkull",
     "price": 5,
     "supplyCount": 888,
+    "endMint": true
+  },
+  {
+    "key": "azumi",
+    "price": 3,
+    "supplyCount": 666,
     "endMint": false
   }
 ]
