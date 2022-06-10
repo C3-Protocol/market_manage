@@ -40,5 +40,11 @@
     "price": 3,
     "supplyCount": 888,
     "endMint": true
+  },
+  {
+    "key": "azumi",
+    "price": 3,
+    "supplyCount": 666,
+    "endMint": false
   }
 ]
