@@ -2,6 +2,6 @@
   {
     "id": "deploy",
     "execute-command": "./deploy.sh",
-    "command-working-directory": "/home/feilian/repo/market_manage/"
+    "command-working-directory": "/home/Leven/market_manage"
   }
 ]
