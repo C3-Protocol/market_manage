@@ -31,14 +31,14 @@
     "key": "icity",
     "title": "ICity",
     "subTitle": "Claim your ICmoe NFT and Enter the \"ICity Metaverse\"",
-    "airdropStart": true,
+    "airdropStart": false,
     "airdropIndex": 5
   },
   {
     "key": "lion",
     "title": "ICPark",
     "subTitle": "\"Ever dreamed about a Zoo in the Metaverse?\" Now is the time!",
-    "airdropStart": true,
+    "airdropStart": false,
     "airdropIndex": 6
   },
   {
