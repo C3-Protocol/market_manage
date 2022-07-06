@@ -361,9 +361,9 @@
         }
     ],
     "commission": 1,
-    "royalty": 8,
+    "royalty": 7,
     "feePrinId": "",
-    "totalSupply": 1129
+    "totalSupply": 900
   }
 
 ]
