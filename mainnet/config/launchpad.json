@@ -45,7 +45,7 @@
     "key": "azumi",
     "price": 3,
     "supplyCount": 666,
-    "endMint": false
+    "endMint": true
   },
   {
     "key": "hands",
