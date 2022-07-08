@@ -46,5 +46,11 @@
     "price": 3,
     "supplyCount": 666,
     "endMint": false
+  },
+  {
+    "key": "hands",
+    "price": 1,
+    "supplyCount": 900,
+    "endMint": false
   }
 ]

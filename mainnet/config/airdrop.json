@@ -82,5 +82,12 @@
     "subTitle": "888 Art",
     "airdropStart": true,
     "airdropIndex": 12
+  },
+  {
+    "key": "hands",
+    "title": "Diamond Hands",
+    "subTitle": "Powered by DfinityGangs Dao",
+    "airdropStart": true,
+    "airdropIndex": 13
   }
 ]
