@@ -1,14 +1,14 @@
 [
   {
-    "key": "choc7-xqaaa-aaaai-qnjmq-cai",
+    "key": "c4l62-niaaa-aaaai-qnjoa-cai",
     "adLink": {
-      "icon": "https://testnet.c3-protocol.art/resource/artCreate/club.png",
+      "icon": "https://testnet.c3-protocol.art/resource/artCreate/relation_activity.png",
       "title": "Activity",
       "link": "https://relationlabs.ai/#/home"
     },
     "otherLink": [
       {
-        "icon": "https://testnet.c3-protocol.art/resource/artCreate/club_gray.png",
+        "icon": "https://testnet.c3-protocol.art/resource/artCreate/relation_club.svg",
         "title": "Club",
         "link": "https://relationlabs.ai/#/club"
       }
