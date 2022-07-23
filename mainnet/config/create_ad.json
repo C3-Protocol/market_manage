@@ -14,5 +14,25 @@
       }
     ]
     
+  },
+  {
+    "key": "ICDmail",
+    "otherLink": [
+      {
+        "icon": "https://market.c3-protocol.art/resource/artCreate/relation_club.svg",
+        "title": "Club",
+        "link": "https://relationlabs.ai/?utm_source=dmail#/clubguide/nusra-3iaaa-aaaah-qc2ta-cai/%20/ccc"
+      }
+    ]
+  },
+  {
+    "key": "icyberSkull",
+    "otherLink": [
+      {
+        "icon": "https://market.c3-protocol.art/resource/artCreate/relation_club.svg",
+        "title": "Club",
+        "link": "https://relationlabs.ai/?utm_source=icyberskull#/clubguide/o7ehd-5qaaa-aaaah-qc2zq-cai/%20/ccc"
+      }
+    ]
   }
 ]
