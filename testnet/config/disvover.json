@@ -2,28 +2,28 @@
     {
         "key":"New-Collection",
         "title":"New Collection",
-        "imgUrl":"../discover/new-collection.png",
+        "imgUrl":"https://testnet.c3-protocol.art/resource/discover/new-collection.png",
         "videoLink":"https://www.youtube.com/watch?v=ICcYQGTkvdE&list=PLFZCdJeg-KsusVN9V5rm10Q7Gl-S4xTpv&index=1"
 
     },
     {
         "key":"Add-item",
         "title":"Add an item",
-        "imgUrl":"../discover/add-item.png",
+        "imgUrl":"https://testnet.c3-protocol.art/resource/discover/add-item.png",
         "videoLink":"https://www.youtube.com/watch?v=iFDOZ6q9hWs&list=PLFZCdJeg-KsusVN9V5rm10Q7Gl-S4xTpv&index=2"
 
     },
     {
         "key":"Pencil-tool",
         "title":"The Pencil tool",
-        "imgUrl":"../discover/pencil-tool.png",
+        "imgUrl":"https://testnet.c3-protocol.art/resource/discover/pencil-tool.png",
         "videoLink":"https://www.youtube.com/watch?v=J51Tnqlgd64&list=PLFZCdJeg-KsusVN9V5rm10Q7Gl-S4xTpv&index=3"
 
     },
     {
         "key":"to-Fork",
         "title":"How to Fork",
-        "imgUrl":"../discover/fork-tool.png",
+        "imgUrl":"https://testnet.c3-protocol.art/resource/discover/fork-tool.png",
         "videoLink":"https://www.youtube.com/watch?v=Cr55Yxlg3q8&list=PLFZCdJeg-KsusVN9V5rm10Q7Gl-S4xTpv&index=4"
 
     },
@@ -31,21 +31,21 @@
     {
         "key":"draw-shapes",
         "title":"How to draw shapes",
-        "imgUrl":"../discover/draw-shapes.png",
+        "imgUrl":"https://testnet.c3-protocol.art/resource/discover/draw-shapes.png",
         "videoLink":"https://www.youtube.com/watch?v=iFDOZ6q9hWs&list=PLFZCdJeg-KsusVN9V5rm10Q7Gl-S4xTpv&index=5"
 
     },
     {
         "key":"bucket-tool",
         "title":"Paint bucket tool",
-        "imgUrl":"../discover/bucket-tool.png",
+        "imgUrl":"https://testnet.c3-protocol.art/resource/discover/bucket-tool.png",
         "videoLink":"https://www.youtube.com/watch?v=J51Tnqlgd64&list=PLFZCdJeg-KsusVN9V5rm10Q7Gl-S4xTpv&index=6"
 
     },
     {
         "key":"text-tool",
         "title":"The text tool",
-        "imgUrl":"",
+        "imgUrl":"https://testnet.c3-protocol.art/resource/discover/text-tool.png",
         "videoLink":"https://www.youtube.com/watch?v=Cr55Yxlg3q8&list=PLFZCdJeg-KsusVN9V5rm10Q7Gl-S4xTpv&index=7"
     }
 
