@@ -89,5 +89,12 @@
     "subTitle": "Powered by DfinityGangs Dao",
     "airdropStart": true,
     "airdropIndex": 13
+  },
+  {
+    "key": "epoch",
+    "title": "World Epoch",
+    "subTitle": "Create a project to combat media propaganda",
+    "airdropStart": true,
+    "airdropIndex": 14
   }
 ]
