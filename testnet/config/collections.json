@@ -336,6 +336,24 @@
     "royalty": 7,
     "feePrinId": "",
     "totalSupply": 900
+  },
+  {
+    "key": "epoch",
+    "nftType": "video",
+    "nftId": "ssgyt-piaaa-aaaai-qnkca-cai",
+    "storageId": "svh6h-cqaaa-aaaai-qnkcq-cai",
+    "pricinpalId": "",
+    "title": "World Epoch",
+    "brief": "Dominic Williams, founder of the Dfinity Foundation, has announced his intention to create a project to combat media propaganda.",
+    "description": "",
+    "blurb": "<p>Dominic Williams, founder of the Dfinity Foundation, has announced his intention to create a project to combat media propaganda. This idea inspired our team to create an NFT collection dedicated to famous historical eras of mankind. </p>History contributes to the evaluation of the past, so that humanity can understand and make sense of all the events that occurred. <p></p><p>Our collection is a collection of those events ĸ which we know, and perhaps you have already guessed, will be hosted on the blockchain of the Internet computer. We are convinced that decentralized blockchain technology is a defense against censorship. </p><p>It is important to keep the lessons of history intact, and this is our way of paying tribute to all those who have contributed to human culture.</p><p>We must always remember: Those who forget the lessons of history are doomed to repeat them!</p>",
+    "links": [{
+        "link": "https://twitter.com/og_worldepoch",
+        "name": "Twitter"}
+    ],
+    "commission": 1,
+    "royalty": 8,
+    "feePrinId": "",
+    "totalSupply": 1000
   }
-
 ]
