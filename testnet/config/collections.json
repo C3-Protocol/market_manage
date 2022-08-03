@@ -355,5 +355,27 @@
     "royalty": 8,
     "feePrinId": "",
     "totalSupply": 1000
+  },
+  {
+    "key": "ikuwayo",
+    "nftId": "rcvsv-tiaaa-aaaai-qnkka-cai",
+    "storageId": "rmx75-iyaaa-aaaai-qnkla-cai",
+    "pricinpalId": "",
+    "title": "IKUWAYO",
+    "brief": "1665 unique IKUWAYO NFT.",
+    "description": "",
+    "blurb": "<p>1665 unique IKUWAYO NFT.</p>",
+    "links": [{
+        "link": "https://twitter.com/ic_ikuzo",
+        "name": "Twitter"},
+        {
+          "link": "https://ikuzo.io/",
+          "name": "Website"
+        }
+    ],
+    "commission": 1,
+    "royalty": 7,
+    "feePrinId": "",
+    "totalSupply": 1665
   }
 ]
