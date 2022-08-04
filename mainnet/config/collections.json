@@ -300,5 +300,28 @@
     "royalty": 8,
     "feePrinId": "7wrbg-ekei2-tlzce-36plc-u4fzy-u7lyg-khqsm-q6zbd-tifdy-oklsq-gqe",
     "totalSupply": 1000
+  },
+  {
+    "key": "ikuwayo",
+    "nftType": "ipfs",
+    "nftId": "dhoxa-7aaaa-aaaah-qc4na-cai",
+    "storageId": "dapru-syaaa-aaaah-qc4nq-cai",
+    "pricinpalId": "dhoxa-7aaaa-aaaah-qc4na-cai",
+    "title": "IKUWAYO",
+    "brief": "1665 unique IKUWAYO NFT.",
+    "description": "",
+    "blurb": "<p>1665 unique IKUWAYO NFT.</p>",
+    "links": [{
+        "link": "https://twitter.com/ic_ikuzo",
+        "name": "Twitter"},
+        {
+          "link": "https://ikuzo.io/",
+          "name": "Website"
+        }
+    ],
+    "commission": 1,
+    "royalty": 8,
+    "feePrinId": "jjr7v-cyg64-uz4u4-hbn2r-m7seb-b4n76-e7zzi-i5r3y-p3kk2-g7vwf-pae",
+    "totalSupply": 1665
   }
 ]
