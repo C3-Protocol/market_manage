@@ -281,5 +281,47 @@
     "royalty": 7,
     "feePrinId": "fn66p-hwnr7-bojdz-7d64l-acu5o-gh2sx-kayd7-olteo-bqq6z-v55ym-3ae",
     "totalSupply": 900
+  },
+  {
+    "key": "worldepoch",
+    "nftType": "video",
+    "nftId": "cec6g-lyaaa-aaaah-qc4lq-cai",
+    "storageId": "djm2i-eqaaa-aaaah-qc4ma-cai",
+    "pricinpalId": "cec6g-lyaaa-aaaah-qc4lq-cai",
+    "title": "World Epoch",
+    "brief": "Dominic Williams, founder of the Dfinity Foundation, has announced his intention to create a project to combat media propaganda.",
+    "description": "",
+    "blurb": "<p>Dominic Williams, founder of the Dfinity Foundation, has announced his intention to create a project to combat media propaganda. This idea inspired our team to create an NFT collection dedicated to famous historical eras of mankind. </p>History contributes to the evaluation of the past, so that humanity can understand and make sense of all the events that occurred. <p></p><p>Our collection is a collection of those events ĸ which we know, and perhaps you have already guessed, will be hosted on the blockchain of the Internet computer. We are convinced that decentralized blockchain technology is a defense against censorship. </p><p>It is important to keep the lessons of history intact, and this is our way of paying tribute to all those who have contributed to human culture.</p><p>We must always remember: Those who forget the lessons of history are doomed to repeat them!</p>",
+    "links": [{
+        "link": "https://twitter.com/og_worldepoch",
+        "name": "Twitter"}
+    ],
+    "commission": 1,
+    "royalty": 8,
+    "feePrinId": "7wrbg-ekei2-tlzce-36plc-u4fzy-u7lyg-khqsm-q6zbd-tifdy-oklsq-gqe",
+    "totalSupply": 1000
+  },
+  {
+    "key": "ikuwayo",
+    "nftType": "ipfs",
+    "nftId": "dhoxa-7aaaa-aaaah-qc4na-cai",
+    "storageId": "dapru-syaaa-aaaah-qc4nq-cai",
+    "pricinpalId": "dhoxa-7aaaa-aaaah-qc4na-cai",
+    "title": "IKUWAYO",
+    "brief": "1665 unique IKUWAYO NFT.",
+    "description": "",
+    "blurb": "<p>1665 unique IKUWAYO NFT.</p>",
+    "links": [{
+        "link": "https://twitter.com/ic_ikuzo",
+        "name": "Twitter"},
+        {
+          "link": "https://ikuzo.io/",
+          "name": "Website"
+        }
+    ],
+    "commission": 1,
+    "royalty": 8,
+    "feePrinId": "jjr7v-cyg64-uz4u4-hbn2r-m7seb-b4n76-e7zzi-i5r3y-p3kk2-g7vwf-pae",
+    "totalSupply": 1665
   }
 ]
