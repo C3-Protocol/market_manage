@@ -45,21 +45,21 @@
     "key": "shoe",
     "title": "IC Shoes",
     "subTitle": "VRSTL NFTs  provide a high quality, metaverse-ready wearables",
-    "airdropStart": true,
+    "airdropStart": false,
     "airdropIndex": 7
   },
   {
     "key": "car",
     "title": "IC Cars",
     "subTitle": "Wen Lambo, grab a ride, the the race in the metaverse has just begun",
-    "airdropStart": true,
+    "airdropStart": false,
     "airdropIndex": 8
   },
   {
     "key": "metacat",
     "title": "Metacats (by ICWhiskers)",
     "subTitle": "Metacat, claim and own a cat in the meta universe",
-    "airdropStart": true,
+    "airdropStart": false,
     "airdropIndex": 9
   },
   {
@@ -103,5 +103,12 @@
     "subTitle": "1665 unique IKUWAYO NFT.",
     "airdropStart": true,
     "airdropIndex": 15
+  },
+  {
+    "key": "woman",
+    "title": "Woman in Web3",
+    "subTitle": "Designed by NyanNyanStudio, Airdrop for Azumi Holders.",
+    "airdropStart": true,
+    "airdropIndex": 16
   }
 ]

@@ -378,5 +378,24 @@
     "royalty": 7,
     "feePrinId": "",
     "totalSupply": 1665
+  }, 
+  {
+    "key": "woman",
+    "nftType": "ipfs",
+    "nftId": "y23sg-bqaaa-aaaai-qnlyq-cai",
+    "storageId": "ytyz2-xyaaa-aaaai-qnlza-cai",
+    "pricinpalId": "y23sg-bqaaa-aaaai-qnlyq-cai",
+    "title": "Woman in Web3",
+    "brief": "Designed by NyanNyanStudio, Airdrop for Azumi Holders",
+    "description": "",
+    "blurb": "<p>Designed by NyanNyanStudio, Airdrop for Azumi Holders.</p>",
+    "links": [{
+        "link": "https://twitter.com/nyannyanstudio",
+        "name": "Twitter"}
+    ],
+    "commission": 1,
+    "royalty": 8,
+    "feePrinId": "",
+    "totalSupply": 700
   }
 ]
