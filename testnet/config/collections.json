@@ -397,5 +397,25 @@
     "royalty": 8,
     "feePrinId": "",
     "totalSupply": 700
+  },
+  {
+    "key": "kawaiiVHS",
+    "nftType": "blindbox",
+    "nftId": "3s25h-7qaaa-aaaai-qnmpa-cai",
+    "storageId": "3v33t-siaaa-aaaai-qnmpq-cai",
+    "pricinpalId": "3s25h-7qaaa-aaaai-qnmpa-cai",
+    "title": "KawaiiVHS",
+    "brief": "500 1 of 1 custom anime characters. Completely unique, animated and perfectly looped.",
+    "description": "",
+    "blurb": "<p>500 1 of 1 custom anime characters. Completely unique, animated and perfectly looped..</p>",
+    "links": [{
+        "link": "https://twitter.com/nyannyanstudio",
+        "name": "Twitter"}
+    ],
+    "commission": 1,
+    "royalty": 8,
+    "feePrinId": "",
+    "totalSupply": 700
   }
+
 ]
