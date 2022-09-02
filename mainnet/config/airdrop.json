@@ -66,21 +66,21 @@
     "key": "ICDmail",
     "title": "3D Crystal",
     "subTitle": "3D Crystal",
-    "airdropStart": true,
+    "airdropStart": false,
     "airdropIndex": 10
   },
   {
     "key": "kverso",
     "title": "Kverso",
     "subTitle": "Defined by Nobody",
-    "airdropStart": true,
+    "airdropStart": false,
     "airdropIndex": 11
   },
   {
     "key": "icyberSkull",
     "title": "ICyber Skull",
     "subTitle": "888 Art",
-    "airdropStart": true,
+    "airdropStart": false,
     "airdropIndex": 12
   },
   {
@@ -110,5 +110,12 @@
     "subTitle": "Designed by NyanNyanStudio, Airdrop for Azumi Holders.",
     "airdropStart": true,
     "airdropIndex": 16
+  },
+  {
+    "key": "kawaiiVHS",
+    "title": "KawaiiVHS",
+    "subTitle": "Completely unique, animated and perfectly looped.",
+    "airdropStart": true,
+    "airdropIndex": 17
   }
 ]

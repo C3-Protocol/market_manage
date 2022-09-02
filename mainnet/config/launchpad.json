@@ -51,6 +51,12 @@
     "key": "hands",
     "price": 1,
     "supplyCount": 900,
+    "endMint": true
+  },
+  {
+    "key": "kawaiiVHS",
+    "price": 8,
+    "supplyCount": 500,
     "endMint": false
   }
 ]
