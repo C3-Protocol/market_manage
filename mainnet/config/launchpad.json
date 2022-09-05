@@ -13,9 +13,9 @@
   },
   {
     "key": "avocado",
-    "price": 2,
-    "supplyCount": 5588,
-    "endMint": true
+    "price": 2.6,
+    "supplyCount": 10000,
+    "endMint": false
   },
   {
     "key": "shoe",
