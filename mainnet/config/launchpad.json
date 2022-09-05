@@ -48,12 +48,6 @@
     "endMint": true
   },
   {
-    "key": "kawaiiVHS",
-    "price": 8,
-    "supplyCount": 500,
-    "endMint": false
-  },
-  {
     "key": "avocado",
     "price": "-",
     "supplyCount": 10000,
