@@ -12,12 +12,6 @@
     "endMint": true
   },
   {
-    "key": "avocado",
-    "price": 2.6,
-    "supplyCount": 10000,
-    "endMint": false
-  },
-  {
     "key": "shoe",
     "price": 8,
     "supplyCount": 266,
@@ -57,6 +51,12 @@
     "key": "kawaiiVHS",
     "price": 8,
     "supplyCount": 500,
+    "endMint": false
+  },
+  {
+    "key": "avocado",
+    "price": 2.6,
+    "supplyCount": 10000,
     "endMint": false
   }
 ]
