@@ -66,14 +66,14 @@
     "key": "ICDmail",
     "title": "3D Crystal",
     "subTitle": "3D Crystal",
-    "airdropStart": false,
+    "airdropStart": true,
     "airdropIndex": 10
   },
   {
     "key": "kverso",
     "title": "Kverso",
     "subTitle": "Defined by Nobody",
-    "airdropStart": false,
+    "airdropStart": true,
     "airdropIndex": 11
   },
   {
