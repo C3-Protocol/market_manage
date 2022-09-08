@@ -49,7 +49,7 @@
   },
   {
     "key": "avocado",
-    "price": "-",
+    "price": 2.6,
     "supplyCount": 10000,
     "endMint": true
   }
