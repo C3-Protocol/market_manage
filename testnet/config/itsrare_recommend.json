@@ -1,7 +1,7 @@
 [{
-	"collection_id": "0x86ac038462011e274da71a88fd894b72eba7b1c3abf421a7a5be63e76a5df520::AptosYo",
+	"collection_id": "0x86ac038462011e274da71a88fd894b72eba7b1c3abf421a7a5be63e76a5df520::AptosYO",
 	"creator": "0x86ac038462011e274da71a88fd894b72eba7b1c3abf421a7a5be63e76a5df520",
-	"name": "AptosYo",
+	"name": "AptosYO",
 	"uri": "https://bafybeibh65p3gcrvsho24453bq5swkdw6bzuwy5ish7xnlo3qfkljj5d6u.ipfs.dweb.link/featured"
 }, {
 	"collection_id": "0xf0a7f974cdbb0393be0deb4cbf7cd28a5d489bbe717caea1d38c7f49b30e4d6b::Aptorses",
@@ -9,9 +9,9 @@
 	"name": "Aptorses",
 	"uri": "https://bafybeiezjbdcf24bxwdidr4uisrghzexcufsejxpqesateg4bc6zgqwgt4.ipfs.dweb.link/featured"
 }, {
-	"collection_id": "0x73b4db6d79cd1a942cd3b1a316bf7e1657b946c82b07759b31ef41ce9bfa472b::Spooky aliens",
+	"collection_id": "0x73b4db6d79cd1a942cd3b1a316bf7e1657b946c82b07759b31ef41ce9bfa472b::Spooky aliens ",
 	"creator": "0x73b4db6d79cd1a942cd3b1a316bf7e1657b946c82b07759b31ef41ce9bfa472b",
-	"name": "Spooky aliens",
+	"name": "Spooky aliens ",
 	"uri": "https://bafybeihbm7jkldjoxk2wcsbcthsb6u2l5ebuy3qnfkuda33xpu7w7w4p6e.ipfs.dweb.link/featured"
 }, {
 	"collection_id": "0x9955e565570db3952bdf6a1c2c2e93f685db2e6b1256ffed00aba6ced3e9888d::Skulls",
