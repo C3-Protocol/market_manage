@@ -1,25 +1,21 @@
 [{
-	"collection_id": "0x86ac038462011e274da71a88fd894b72eba7b1c3abf421a7a5be63e76a5df520::AptosYO",
-	"creator": "0x86ac038462011e274da71a88fd894b72eba7b1c3abf421a7a5be63e76a5df520",
-	"name": "AptosYO",
-	"uri": "https://bafybeibh65p3gcrvsho24453bq5swkdw6bzuwy5ish7xnlo3qfkljj5d6u.ipfs.dweb.link/featured",
-	"collection_data_id_hash":"98fb4b1720fea531f93ce58646d600c0fb359dbcf169c30a95688fd8ec691913"
+    "collection_id": "0xf83d72a4c2a4965cace554724cf8358c27fa372c7f6e0340aaa4d1da144645f::RektCats",
+    "creator": "0xf83d72a4c2a4965cace554724cf8358c27fa372c7f6e0340aaa4d1da144645f",
+    "name": "RektCats",
+    "uri": "https://cloudflare-ipfs.com/ipfs//QmQM8qP4jtu6VWk3gZqjUkUMHZy4PSDPX4rHKvw5BsJ6L1"
 }, {
-	"collection_id": "0xf0a7f974cdbb0393be0deb4cbf7cd28a5d489bbe717caea1d38c7f49b30e4d6b::Aptorses",
-	"creator": "0xf0a7f974cdbb0393be0deb4cbf7cd28a5d489bbe717caea1d38c7f49b30e4d6b",
-	"name": "Aptorses",
-	"uri": "https://bafybeiezjbdcf24bxwdidr4uisrghzexcufsejxpqesateg4bc6zgqwgt4.ipfs.dweb.link/featured",
-	"collection_data_id_hash":"9ac9134da2c9440573654065fa4737cf76370c175affc80a7c92677fe0e703bf"
+    "collection_id": "0xd2cd23512de28f27c6df9b5c0066456786d46af55bbd7a73c2c67940ec86005f::PECFriends",
+    "creator": "0xd2cd23512de28f27c6df9b5c0066456786d46af55bbd7a73c2c67940ec86005f",
+    "name": "PECFriends",
+    "uri": "https://bafybeifyqcqdlwcodunq5lihpns3htwdj522nqfnktyjwt7pgu5ezspnje.ipfs.dweb.link/featured"
 }, {
-	"collection_id": "0x73b4db6d79cd1a942cd3b1a316bf7e1657b946c82b07759b31ef41ce9bfa472b::Spooky aliens ",
-	"creator": "0x73b4db6d79cd1a942cd3b1a316bf7e1657b946c82b07759b31ef41ce9bfa472b",
-	"name": "Spooky aliens ",
-	"uri": "https://bafybeihbm7jkldjoxk2wcsbcthsb6u2l5ebuy3qnfkuda33xpu7w7w4p6e.ipfs.dweb.link/featured",
-	"collection_data_id_hash":"49839db2e901d9ff56edb114bee6674d75baf4a1147aa96e1d52b68c456f76b4"
+    "collection_id": "0x527cd05386c6a919a55d446878e1884bb26b40a2fc9179ce19909345eada2e2f::DuckYou",
+    "creator": "0x527cd05386c6a919a55d446878e1884bb26b40a2fc9179ce19909345eada2e2f",
+    "name": "DuckYou",
+    "uri": "https://bafybeigtoj6gbwanrrhbzd5jgomr4ycgozaqshwcztzarpmashwa6e65o4.ipfs.dweb.link/featured"
 }, {
-	"collection_id": "0x9955e565570db3952bdf6a1c2c2e93f685db2e6b1256ffed00aba6ced3e9888d::Skulls",
-	"creator": "0x9955e565570db3952bdf6a1c2c2e93f685db2e6b1256ffed00aba6ced3e9888d",
-	"name": "Skulls",
-	"uri": "https://bafybeiczkr5hzqiz77iysg3qr7m4xxowuuzvctxnxnp5wqmdu5pkvgsasm.ipfs.dweb.link/featured",
-	"collection_data_id_hash":"385430a0e528862d30ed15163ba5c5148da75e8f18594162e28b0564ed6e3744"
+    "collection_id": "0x8bb96eaa4f0d88329fd5785c58c04f5138c659bafb0444946378f812d65e946f::Aptos Punk",
+    "creator": "0x8bb96eaa4f0d88329fd5785c58c04f5138c659bafb0444946378f812d65e946f",
+    "name": "Aptos Punk",
+    "uri": "https://cloudflare-ipfs.com/ipfs/QmejSJro4kjtsorabhNqA5JbCqGkMNNoSKC73FxZYJanHFf"
 }]
