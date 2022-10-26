@@ -1,21 +1,41 @@
 [{
-    "collection_id": "0xf83d72a4c2a4965cace554724cf8358c27fa372c7f6e0340aaa4d1da144645f::RektCats",
-    "creator": "0xf83d72a4c2a4965cace554724cf8358c27fa372c7f6e0340aaa4d1da144645f",
-    "name": "RektCats",
-    "uri": "https://cloudflare-ipfs.com/ipfs//QmQM8qP4jtu6VWk3gZqjUkUMHZy4PSDPX4rHKvw5BsJ6L1"
+    "collection_id": "0xf932dcb9835e681b21d2f411ef99f4f5e577e6ac299eebee2272a39fb348f702::Aptos Monkeys",
+    "creator": "0xf932dcb9835e681b21d2f411ef99f4f5e577e6ac299eebee2272a39fb348f702",
+    "name": "Aptos Monkeys",
+    "uri": "https://i.ibb.co/fQtB94W/Mikey.jpg"
 }, {
-    "collection_id": "0xd2cd23512de28f27c6df9b5c0066456786d46af55bbd7a73c2c67940ec86005f::PECFriends",
-    "creator": "0xd2cd23512de28f27c6df9b5c0066456786d46af55bbd7a73c2c67940ec86005f",
-    "name": "PECFriends",
-    "uri": "https://bafybeifyqcqdlwcodunq5lihpns3htwdj522nqfnktyjwt7pgu5ezspnje.ipfs.dweb.link/featured"
+    "collection_id": "0xc0e3fbf8ae61056d66ce624d71ccf1888f879355cc4e364ef117249b5e3160a8::Aptomingos",
+    "creator": "0xc0e3fbf8ae61056d66ce624d71ccf1888f879355cc4e364ef117249b5e3160a8",
+    "name": "Aptomingos",
+    "uri": "https://dweb.link/ipfs/bafkreibmb7frskjxvczmpltlp3n2ts4peoaag324hxziphdmrwll6tprj4"
 }, {
-    "collection_id": "0x527cd05386c6a919a55d446878e1884bb26b40a2fc9179ce19909345eada2e2f::DuckYou",
-    "creator": "0x527cd05386c6a919a55d446878e1884bb26b40a2fc9179ce19909345eada2e2f",
-    "name": "DuckYou",
-    "uri": "https://bafybeigtoj6gbwanrrhbzd5jgomr4ycgozaqshwcztzarpmashwa6e65o4.ipfs.dweb.link/featured"
+    "collection_id": "0x6d4336aeac8441314cacdd42ea7aae57b3fad71ea26a00186a23eb8f1fa19ffb::Aptos Wizards",
+    "creator": "0x6d4336aeac8441314cacdd42ea7aae57b3fad71ea26a00186a23eb8f1fa19ffb",
+    "name": "Aptos Wizards",
+    "uri": "https://ipfs.bluemove.io/uploads/AptosWizards/logo.png"
 }, {
-    "collection_id": "0x8bb96eaa4f0d88329fd5785c58c04f5138c659bafb0444946378f812d65e946f::Aptos Punk",
-    "creator": "0x8bb96eaa4f0d88329fd5785c58c04f5138c659bafb0444946378f812d65e946f",
-    "name": "Aptos Punk",
-    "uri": "https://cloudflare-ipfs.com/ipfs/QmejSJro4kjtsorabhNqA5JbCqGkMNNoSKC73FxZYJanHF"
+    "collection_id": "0x74b6b765f6710a0c24888643babfe337241ad1888a55e33ed86f389fe3f13f52::Aptos Toad Overload",
+    "creator": "0x74b6b765f6710a0c24888643babfe337241ad1888a55e33ed86f389fe3f13f52",
+    "name": "Aptos Toad Overload",
+    "uri": "https://arweave.net/KSq49bqghhtTE2KMJfzYYKx9-K2rO3ExXAof2bPnNiY"
+}, {
+    "collection_id": "0x28c2af27910bdb99e9100c3f989448174cd44cb2b2c626f4e6b1d96b825beab7::Aptos Ant Club",
+    "creator": "0x28c2af27910bdb99e9100c3f989448174cd44cb2b2c626f4e6b1d96b825beab7",
+    "name": "Aptos Ant Club",
+    "uri": "https://bluemovecdn.s3.ap-northeast-1.amazonaws.com/aptos-ant-club/logo.png"
+}, {
+    "collection_id": "0x7fa08adb35daf886a7cb04b416133462e0da2c9721588ccf83471aa2e0128af3::Aptos Koalas Army",
+    "creator": "0x7fa08adb35daf886a7cb04b416133462e0da2c9721588ccf83471aa2e0128af3",
+    "name": "Aptos Koalas Army",
+    "uri": "https://cdn.bluemove.io/uploads/aptos-koalas-army/logo.webp"
+}, {
+    "collection_id": "0xad97ec4ffc576ea87f14c64713240f3ad4821d502ab7181b18fb4e50909dfb44::EMO Heart PFP Collection",
+    "creator": "0xad97ec4ffc576ea87f14c64713240f3ad4821d502ab7181b18fb4e50909dfb44",
+    "name": "EMO Heart PFP Collection",
+    "uri": "https://ipfs.io/ipfs/QmNrPgttmL8aQRE2TJFgJbUs2GP24KoYLS4AtnfkUoQG7e/EMOHeart/cover.png"
+}, {
+    "collection_id": "0xf3852f8efb9e359828ca568a1a2d6a67fa78d6db8e7fcbbb0db46588bfb2fbb8::Aptos Sniper",
+    "creator": "0xf3852f8efb9e359828ca568a1a2d6a67fa78d6db8e7fcbbb0db46588bfb2fbb8",
+    "name": "Aptos Sniper",
+    "uri": "https://bafybeig5z5bcfkkdyw6el2f3o74pbm4ewnq2acbknsei72c7xqtkxmey7i.ipfs.dweb.link/featured"
 }]
